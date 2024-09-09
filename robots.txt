@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cotonewea.github.io/sitemap.html.gz
+Sitemap: https://cotonewea.github.io/app/sitemap.html.gz
+Sitemap: https://cotonewea.github.io/assets/sitemap.html.gz
+Sitemap: https://cotonewea.github.io/css/sitemap.html.gz
+Sitemap: https://cotonewea.github.io/includes/sitemap.html.gz
+Sitemap: https://cotonewea.github.io/item/sitemap.html.gz
+Sitemap: https://cotonewea.github.io/src/sitemap.html.gz
